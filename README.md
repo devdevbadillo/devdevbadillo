@@ -13,16 +13,13 @@
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,kubernetes,jenkins,go,java,spring,graphql,prometheus,grafana,elasticsearch,kafka&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,kubernetes,jenkins,go,java,spring,graphql,prometheus,grafana,elasticsearch,kafka&perline=14" />
 </p>
 
  ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devdevbadillo&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devdevbadillo&layout=compact&langs_count=8&theme=ayu-mirage"/>
-</a>
+  <img height="112rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devdevbadillo&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  
+  <img height="112rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devdevbadillo&layout=compact&langs_count=8&theme=ayu-mirage"/>
 </p>
