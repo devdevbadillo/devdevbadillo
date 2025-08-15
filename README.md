@@ -15,11 +15,3 @@
 <p align="center">
   <img src="https://skills.syvixor.com/api/icons?i=git,aws,docker,jenkins,spring,redis,mongodb,grpc,graphql,prometheus,grafana&perline=14" />
 </p>
-
- ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img height="112rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devdevbadillo&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  
-  <img height="112rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devdevbadillo&layout=compact&langs_count=8&theme=ayu-mirage"/>
-</p>
