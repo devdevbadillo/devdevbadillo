@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,docker,kubernetes,jenkins,go,java,spring,graphql,prometheus,grafana,elasticsearch,kafka&perline=14" />
+  <img src="https://skills.syvixor.com/api/icons?i=git,aws,docker,jenkins,spring,redis,mongodb,grpc,graphql,prometheus,grafana&perline=14" />
 </p>
 
  ### ⚙️ &nbsp;GitHub Analytics
