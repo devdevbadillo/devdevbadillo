@@ -13,6 +13,6 @@
 </div>
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=git,aws,docker,kubernetes,jenkins,spring,redis,grpc,graphql,prometheus,grafana&perline=14" />
+  <img src="https://skills.syvixor.com/api/icons?i=aws,docker,kubernetes,jenkins,githubactions,spring,,redis,mongodb,grpc,graphql,prometheus,grafana&perline=14" />
 </p>
 <br>
